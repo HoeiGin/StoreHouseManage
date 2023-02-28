@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/ADD.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/Congratulate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/DELETE.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/Entrance.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/REMAIN.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/Warning.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/fc/choice.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/fc/detailFile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/fc/storageFile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/op/detailOP.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/op/selectOP.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/op/unitOP.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Frame/rev/REVISE.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/StoreManage/Operate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
