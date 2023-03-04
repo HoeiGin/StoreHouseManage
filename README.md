@@ -62,3 +62,6 @@ String psw = "";
 
 3. 等待Maven导入，等待无报错时，运行`Entrance`文件
 
+
+注：菜单中的图标包来自 小假哥_常用_icon116 
+https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=42850
